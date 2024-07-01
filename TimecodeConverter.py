@@ -1,5 +1,5 @@
-ffprobe = "S:\\net_exe\\FFmpeg\\ffmpeg-20131118-win64-static\\bin\\ffprobe.exe" ##Replace with your location of FFProbe
-ffmpeg = "S:\\net_exe\\FFmpeg\\ffmpeg-20131118-win64-static\\bin\\ffmpeg.exe" ##Replace with your location of FFMpeg
+ffprobe = "" ##Replace with your location of FFProbe
+ffmpeg = "" ##Replace with your location of FFMpeg
 
 import os, subprocess, re, sys
 
